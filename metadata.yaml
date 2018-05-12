@@ -1,0 +1,42 @@
+_repo: Apology-Crito-and-Phaedo-of-Socrates_13726
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Brooks, Edward
+    birthdate: 1831
+    deathdate: 1912
+    gutenberg_agent_id: '33920'
+    url: http://www.gutenberg.org/2009/agents/33920
+  translator:
+    agent_name: Cary, Henry
+    birthdate: 1804
+    deathdate: 1870
+    gutenberg_agent_id: '33919'
+    url: http://www.gutenberg.org/2009/agents/33919
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socrates, 470 BC-399 BC'
+- !lcc 'B'
+title: Apology, Crito, and Phaedo of Socrates
+url: http://www.gutenberg.org/ebooks/13726
